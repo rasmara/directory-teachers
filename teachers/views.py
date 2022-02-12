@@ -128,7 +128,7 @@ class SearchView(ListView):
             if not data:
                 messages.warning(self.request, "No results found")
             return data
-        messages.warning(self.request, "No results found")
+        messages.warning(self.request, "Please enter a valid query")
 
     def dispatch(self, *args):
         try:
