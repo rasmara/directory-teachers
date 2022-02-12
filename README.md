@@ -2,7 +2,7 @@
 
 Django directory for searching and creating new teachers record
 
-#### Detailed description for project attached [here in PDF](https://github.com/rasmara/teachers-directory/blob/master/tech_test_data/Tech%20Test.pdf) 
+#### Detailed description for project attached [here in PDF](https://github.com/rasmara/directory-teachers/blob/main/tech_test_data/Tech%20Test.pdf) 
 
 ## Installation
 
@@ -16,9 +16,9 @@ Django directory for searching and creating new teachers record
 
 ```bash
 
-git clone https://github.com/rasmara/teachers-directory.git
+git clone https://github.com/rasmara/directory-teachers.git
 
-cd teachers-directory
+cd directory-teachers
 
 ```
 
