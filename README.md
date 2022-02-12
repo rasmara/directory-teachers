@@ -1,6 +1,6 @@
 # Teachers Directory
 
-Django directory for searching and creating new teachers record
+Django directory for searching and creating new teachers record using Class Based Views
 
 #### Detailed description for project attached [here in PDF](https://github.com/rasmara/directory-teachers/blob/main/tech_test_data/Tech%20Test.pdf) 
 
